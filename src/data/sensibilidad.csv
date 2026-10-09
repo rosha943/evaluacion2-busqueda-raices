@@ -1,0 +1,63 @@
+funcion,metodo,tipo,parametro,convergio,iteraciones,raiz,motivo
+polinomica_simple,biseccion,intervalo,"[1.0, 2.0]",True,20,1.521380424500,criterio de parada cumplido
+polinomica_simple,falsa_posicion,intervalo,"[1.0, 2.0]",True,12,1.521379461790,criterio de parada cumplido
+polinomica_simple,biseccion,intervalo,"[1.0, 3.0]",True,21,1.521380424500,criterio de parada cumplido
+polinomica_simple,falsa_posicion,intervalo,"[1.0, 3.0]",True,26,1.521378406109,criterio de parada cumplido
+polinomica_simple,biseccion,intervalo,"[0.0, 2.0]",True,21,1.521380424500,criterio de parada cumplido
+polinomica_simple,falsa_posicion,intervalo,"[0.0, 2.0]",True,14,1.521379556267,criterio de parada cumplido
+polinomica_simple,biseccion,intervalo,"[1.4, 1.6]",True,18,1.521379852295,criterio de parada cumplido
+polinomica_simple,falsa_posicion,intervalo,"[1.4, 1.6]",True,5,1.521379622513,criterio de parada cumplido
+polinomica_simple,punto_fijo,estimacion_inicial,x0=1.0,True,8,1.521379604239,criterio de parada cumplido
+polinomica_simple,secante,estimacion_inicial,x0=1.0,True,6,1.521379609168,criterio de parada cumplido
+polinomica_simple,newton_raphson,estimacion_inicial,x0=1.0,True,5,1.521379709733,criterio de parada cumplido
+polinomica_simple,punto_fijo,estimacion_inicial,x0=1.5,True,7,1.521379679271,criterio de parada cumplido
+polinomica_simple,secante,estimacion_inicial,x0=1.5,True,3,1.521379776418,criterio de parada cumplido
+polinomica_simple,newton_raphson,estimacion_inicial,x0=1.5,True,2,1.521379805965,criterio de parada cumplido
+polinomica_simple,punto_fijo,estimacion_inicial,x0=2.0,True,8,1.521379791014,criterio de parada cumplido
+polinomica_simple,secante,estimacion_inicial,x0=2.0,True,6,1.521379706842,criterio de parada cumplido
+polinomica_simple,newton_raphson,estimacion_inicial,x0=2.0,True,4,1.521379709733,criterio de parada cumplido
+logaritmica,biseccion,intervalo,"[2.0, 3.0]",True,19,2.926271438599,criterio de parada cumplido
+logaritmica,falsa_posicion,intervalo,"[2.0, 3.0]",True,4,2.926271481822,criterio de parada cumplido
+logaritmica,biseccion,intervalo,"[2.0, 4.0]",True,20,2.926271438599,criterio de parada cumplido
+logaritmica,falsa_posicion,intervalo,"[2.0, 4.0]",True,5,2.926271315441,criterio de parada cumplido
+logaritmica,biseccion,intervalo,"[1.5, 3.5]",True,20,2.926271438599,criterio de parada cumplido
+logaritmica,falsa_posicion,intervalo,"[1.5, 3.5]",True,6,2.926271276445,criterio de parada cumplido
+logaritmica,punto_fijo,estimacion_inicial,x0=2.0,True,14,2.926270747359,criterio de parada cumplido
+logaritmica,secante,estimacion_inicial,x0=2.0,True,4,2.926271062053,criterio de parada cumplido
+logaritmica,newton_raphson,estimacion_inicial,x0=2.0,True,3,2.926271061656,criterio de parada cumplido
+logaritmica,punto_fijo,estimacion_inicial,x0=2.5,True,13,2.926271454030,criterio de parada cumplido
+logaritmica,secante,estimacion_inicial,x0=2.5,True,3,2.926271030100,criterio de parada cumplido
+logaritmica,newton_raphson,estimacion_inicial,x0=2.5,True,3,2.926271062443,criterio de parada cumplido
+logaritmica,punto_fijo,estimacion_inicial,x0=3.5,True,13,2.926270597565,criterio de parada cumplido
+logaritmica,secante,estimacion_inicial,x0=3.5,True,3,2.926271273390,criterio de parada cumplido
+logaritmica,newton_raphson,estimacion_inicial,x0=3.5,True,3,2.926271062442,criterio de parada cumplido
+exponencial,biseccion,intervalo,"[0.0, 1.0]",True,20,0.567143440247,criterio de parada cumplido
+exponencial,falsa_posicion,intervalo,"[0.0, 1.0]",True,7,0.567143376034,criterio de parada cumplido
+exponencial,biseccion,intervalo,"[0.0, 2.0]",True,21,0.567143440247,criterio de parada cumplido
+exponencial,falsa_posicion,intervalo,"[0.0, 2.0]",True,7,0.567143533763,criterio de parada cumplido
+exponencial,biseccion,intervalo,"[0.2, 1.0]",True,19,0.567143249512,criterio de parada cumplido
+exponencial,falsa_posicion,intervalo,"[0.2, 1.0]",True,6,0.567143338537,criterio de parada cumplido
+exponencial,punto_fijo,estimacion_inicial,x0=0.0,True,25,0.567143748099,criterio de parada cumplido
+exponencial,secante,estimacion_inicial,x0=0.0,True,4,0.567143245450,criterio de parada cumplido
+exponencial,newton_raphson,estimacion_inicial,x0=0.0,True,3,0.567143165035,criterio de parada cumplido
+exponencial,punto_fijo,estimacion_inicial,x0=0.5,True,21,0.567143751417,criterio de parada cumplido
+exponencial,secante,estimacion_inicial,x0=0.5,True,3,0.567143290582,criterio de parada cumplido
+exponencial,newton_raphson,estimacion_inicial,x0=0.5,True,2,0.567143165035,criterio de parada cumplido
+exponencial,punto_fijo,estimacion_inicial,x0=1.0,True,24,0.567143748099,criterio de parada cumplido
+exponencial,secante,estimacion_inicial,x0=1.0,True,4,0.567143278869,criterio de parada cumplido
+exponencial,newton_raphson,estimacion_inicial,x0=1.0,True,3,0.567143285989,criterio de parada cumplido
+mixta,biseccion,intervalo,"[0.1, 1.0]",True,20,0.641714382172,criterio de parada cumplido
+mixta,falsa_posicion,intervalo,"[0.1, 1.0]",True,4,0.641713839175,criterio de parada cumplido
+mixta,biseccion,intervalo,"[0.01, 1.0]",True,18,0.641714897156,criterio de parada cumplido
+mixta,falsa_posicion,intervalo,"[0.01, 1.0]",True,7,0.641714550909,criterio de parada cumplido
+mixta,biseccion,intervalo,"[0.1, 2.0]",True,21,0.641714429855,criterio de parada cumplido
+mixta,falsa_posicion,intervalo,"[0.1, 2.0]",True,6,0.641714178582,criterio de parada cumplido
+mixta,punto_fijo,estimacion_inicial,x0=0.1,False,100,0.638661592769,tope de 100 iteraciones alcanzado
+mixta,secante,estimacion_inicial,x0=0.1,True,4,0.641714370695,criterio de parada cumplido
+mixta,newton_raphson,estimacion_inicial,x0=0.1,True,3,0.641714827732,criterio de parada cumplido
+mixta,punto_fijo,estimacion_inicial,x0=0.5,False,100,0.639910803454,tope de 100 iteraciones alcanzado
+mixta,secante,estimacion_inicial,x0=0.5,True,3,0.641714370577,criterio de parada cumplido
+mixta,newton_raphson,estimacion_inicial,x0=0.5,True,2,0.641714866792,criterio de parada cumplido
+mixta,punto_fijo,estimacion_inicial,x0=1.0,False,100,0.644660779033,tope de 100 iteraciones alcanzado
+mixta,secante,estimacion_inicial,x0=1.0,True,4,0.641714371269,criterio de parada cumplido
+mixta,newton_raphson,estimacion_inicial,x0=1.0,True,3,0.641714371003,criterio de parada cumplido

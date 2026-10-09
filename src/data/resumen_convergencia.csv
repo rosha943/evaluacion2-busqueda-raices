@@ -1,0 +1,37 @@
+funcion,metodo,convergio,iteraciones,raiz,raiz_referencia,error_final,orden_estimado,motivo
+polinomica_simple,biseccion,True,20,1.5213804245,1.5213797068,7.17695e-07,0.2412,criterio de parada cumplido
+polinomica_simple,falsa_posicion,True,12,1.52137946179,1.5213797068,2.45014e-07,1,criterio de parada cumplido
+polinomica_simple,punto_fijo,True,8,1.52137960424,1.5213797068,1.02565e-07,1,criterio de parada cumplido
+polinomica_simple,secante,True,6,1.52137970798,1.5213797068,1.1803e-09,1.61,criterio de parada cumplido
+polinomica_simple,newton_raphson,True,5,1.52137970973,1.5213797068,2.92858e-09,1.957,criterio de parada cumplido
+polinomica_simple,newton_mejorado,True,5,1.52137970973,1.5213797068,2.92858e-09,1.957,criterio de parada cumplido
+polinomica_doble,biseccion,False,0,,2,,,"no hay cambio de signo en [a, b]"
+polinomica_doble,falsa_posicion,False,0,,2,,,"no hay cambio de signo en [a, b]"
+polinomica_doble,punto_fijo,False,7,,2,604518,1.723,divergencia (valor no finito)
+polinomica_doble,secante,True,14,1.99925522011,2,0.00074478,1,criterio de parada cumplido
+polinomica_doble,newton_raphson,True,10,1.99921875,2,0.00078125,1,criterio de parada cumplido
+polinomica_doble,newton_mejorado,True,1,2,2,0,,criterio de parada cumplido
+logaritmica,biseccion,True,19,2.9262714386,2.92627106244,3.76155e-07,1.019,criterio de parada cumplido
+logaritmica,falsa_posicion,True,4,2.92627148182,2.92627106244,4.19379e-07,0.9999,criterio de parada cumplido
+logaritmica,punto_fijo,True,14,2.92627074736,2.92627106244,3.15085e-07,1,criterio de parada cumplido
+logaritmica,secante,True,3,2.92627106419,2.92627106244,1.74908e-09,1.524,criterio de parada cumplido
+logaritmica,newton_raphson,True,3,2.92627106166,2.92627106244,7.87718e-10,2.003,criterio de parada cumplido
+logaritmica,newton_mejorado,True,3,2.92627106166,2.92627106244,7.87718e-10,2.003,criterio de parada cumplido
+exponencial,biseccion,True,20,0.567143440247,0.56714329041,1.49837e-07,-0.2333,criterio de parada cumplido
+exponencial,falsa_posicion,True,7,0.567143376034,0.56714329041,8.56241e-08,1,criterio de parada cumplido
+exponencial,punto_fijo,True,25,0.567143748099,0.56714329041,4.5769e-07,1,criterio de parada cumplido
+exponencial,secante,True,4,0.567143306605,0.56714329041,1.61952e-08,1.688,criterio de parada cumplido
+exponencial,newton_raphson,True,3,0.567143165035,0.56714329041,1.25375e-07,2.005,criterio de parada cumplido
+exponencial,newton_mejorado,True,3,0.567143165035,0.56714329041,1.25375e-07,2.005,criterio de parada cumplido
+trigonometrica,biseccion,True,20,0.739085197449,0.739085133215,6.42336e-08,0.1829,criterio de parada cumplido
+trigonometrica,falsa_posicion,True,5,0.739084782449,0.739085133215,3.50766e-07,1,criterio de parada cumplido
+trigonometrica,punto_fijo,True,34,0.739084549575,0.739085133215,5.8364e-07,1,criterio de parada cumplido
+trigonometrica,secante,True,4,0.739085112127,0.739085133215,2.10877e-08,1.582,criterio de parada cumplido
+trigonometrica,newton_raphson,True,4,0.739085133385,0.739085133215,1.70124e-10,1.955,criterio de parada cumplido
+trigonometrica,newton_mejorado,True,4,0.739085133385,0.739085133215,1.70124e-10,1.955,criterio de parada cumplido
+mixta,biseccion,True,20,0.641714382172,0.641714370873,1.12987e-08,-0.3006,criterio de parada cumplido
+mixta,falsa_posicion,True,4,0.641713839175,0.641714370873,5.31698e-07,1,criterio de parada cumplido
+mixta,punto_fijo,False,100,0.638661592769,0.641714370873,0.00305278,1.002,tope de 100 iteraciones alcanzado
+mixta,secante,True,3,0.64171452905,0.641714370873,1.58177e-07,2.396,criterio de parada cumplido
+mixta,newton_raphson,True,3,0.641714827732,0.641714370873,4.56859e-07,1.938,criterio de parada cumplido
+mixta,newton_mejorado,True,3,0.641714827732,0.641714370873,4.56859e-07,1.938,criterio de parada cumplido
