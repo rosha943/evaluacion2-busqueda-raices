@@ -1,8 +1,8 @@
 # La raíz que se esconde: comparación de métodos de búsqueda de raíces
 
 Universidad Católica del Maule · Laboratorio evaluado 2
-Autor: Marcos Hoces
-
+Autores: Marcos Hoces
+         Rosario Torres
 Todos los números de este informe provienen de `src/data/` (generados por `src/scripts/ejecutar.py` y `src/scripts/sensibilidad.py`). Las figuras están en `src/assets/`.
 
 ## 1. Ambiente controlado

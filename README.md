@@ -2,7 +2,7 @@
 
 Comparación de seis métodos de búsqueda de raíces (bisección, falsa posición, punto fijo, secante, Newton-Raphson y Newton-Raphson mejorado) sobre seis funciones, con análisis de convergencia.
 
-Autor: Marcos Hoces · Universidad Católica del Maule · Laboratorio evaluado 2
+Autores: Marcos Hoces y Rosario Torres· Universidad Católica del Maule · Laboratorio evaluado 2
 
 ## Entorno
 
