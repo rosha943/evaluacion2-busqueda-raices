@@ -4,7 +4,7 @@ Universidad Católica del Maule · Laboratorio evaluado 2
 Autores: Marcos Hoces
          Rosario Torres
 Todos los números de este informe provienen de `src/data/` (generados por `src/scripts/ejecutar.py` y `src/scripts/sensibilidad.py`). Las figuras están en `src/assets/`.
-
+asd
 ## 1. Ambiente controlado
 
 Tolerancia 1e-6 y tope de 100 iteraciones en todas las ejecuciones. Criterio de parada: |f(x_n)| < tol o |x_n − x_{n−1}| < tol. Error: |x_n − α|, con α la raíz de referencia (bisección a 1e-15 o raíz exacta en el caso doble).
