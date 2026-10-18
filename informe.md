@@ -3,7 +3,7 @@
 Universidad Católica del Maule · Laboratorio evaluado 2
 Autores: Marcos Hoces
          Rosario Torres
-Todos los números de este informe provienen de `src/data/` (generados por `src/scripts/ejecutar.py` y `src/scripts/sensibilidad.py`). Las figuras están en `src/assets/`.
+Todos los números de este informe provienen de `src/data/` (generados por `src/scripts/ejecutar.py` y `src/scripts/sensibilidad.py`). Las figuras están en `src/asse/`.
 
 ## 1. Ambiente controlado
 
