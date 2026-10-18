@@ -1,4 +1,3 @@
-Aquí tienes la versión formal del **`README.md`** redactada en **tercera persona imponderable/impersonal**, ideal para un informe técnico universitario:
 
 ```markdown
 # Evaluación 2: La raíz que se esconde
